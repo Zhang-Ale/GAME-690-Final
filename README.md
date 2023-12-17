@@ -21,8 +21,8 @@
 _"Vincent Van Gogh's art on Rawpixel" [**URL**](https://www.rawpixel.com/board/537381/vincent-van-gogh-free-original-cc0-public-domain-paintings) 
 
 **2D-pixel gifs:** <br>
-_"City sunset" [**URL**](https://steamcommunity.com/sharedfiles/filedetails/?id=1167078113) _<br>
-_"Calm rain in futuristic neon city" [**URL**](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/60450985394250500379570173737850728793158825866208713302522449998118794559489) _<br>
+_"City sunset" [**URL**](https://steamcommunity.com/sharedfiles/filedetails/?id=1167078113)_<br>
+_"Calm rain in futuristic neon city" [**URL**](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/60450985394250500379570173737850728793158825866208713302522449998118794559489)_<br>
 
 **Music:** <br>
 _"Ligera" [**URL**](https://youtu.be/i5QLcINCNQc)_<br>
