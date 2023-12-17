@@ -17,8 +17,8 @@
 [**Drive link**](https://drive.google.com/drive/folders/1T5-1QHLdo5BKQHgRX1ycoyQIqgDQebnt?usp=sharing)<br>
 
 # Credits
-**Van Gogh's artworks**
-_"Vincent Van Gogh's art on Rawpixel" [**URL**](https://www.rawpixel.com/board/537381/vincent-van-gogh-free-original-cc0-public-domain-paintings) 
+**Van Gogh's artworks**<br>
+_"Vincent Van Gogh's art on Rawpixel" [**URL**](https://www.rawpixel.com/board/537381/vincent-van-gogh-free-original-cc0-public-domain-paintings)<br>
 
 **2D-pixel gifs:** <br>
 _"City sunset" [**URL**](https://steamcommunity.com/sharedfiles/filedetails/?id=1167078113)_<br>
