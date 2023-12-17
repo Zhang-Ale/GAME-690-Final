@@ -13,7 +13,7 @@
 **Project 2:** (Particle + audio reactive) Create a chill video using pixel art animation and lo-fi-chill music. Convert the pixels into boxes in TouchDesigner and make them bounce in the z-axis from the music's beats. <br>
 **Project 3:** (Animation + noise) Using the imagination, create a sun and a moon from circles, and make one disappear as the other one appears by rotating an invisible rectangle on top of them. Add a grain background using noises. <br>
 
-# Project download link 
+# Project files download link 
 [**Drive link**](https://drive.google.com/drive/folders/17Y_s_wj0wSz3f2nNFwKyeRhs7cxQWgJk?usp=sharing)<br>
 
 # Credits
