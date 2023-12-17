@@ -18,7 +18,7 @@
 
 # Credits
 **Van Gogh's artworks**<br>
-"Vincent Van Gogh's art on Rawpixel" [**URL**](https://www.rawpixel.com/board/537381/vincent-van-gogh-free-original-cc0-public-domain-paintings)<br>
+_"Vincent Van Gogh's art on Rawpixel" [**URL**](https://www.rawpixel.com/board/537381/vincent-van-gogh-free-original-cc0-public-domain-paintings)_<br>
 
 **2D-pixel gifs:** <br>
 _"City sunset" [**URL**](https://steamcommunity.com/sharedfiles/filedetails/?id=1167078113)_<br>
